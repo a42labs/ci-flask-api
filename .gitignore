@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache
+.Python
+# config.py
+
+# C extensions
+*.so
+
+# Misc
+*.DS_Store
+.vscode/
+venv/
