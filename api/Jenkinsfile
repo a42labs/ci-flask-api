@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        git 'https://github.com/mikeshortt/BERT-api'
+        git 'https://github.com/a42labs/ci-flask-api.git'
         // sh 'pip install --user -r requirements.txt'
       }
     }
